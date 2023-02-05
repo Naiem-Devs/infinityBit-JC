@@ -119,9 +119,8 @@
     }
     
     section.hero-Area {
-        background-size: 220%;
+        background-size: 140%;
         height: 500px;
-        background: none;
         margin-bottom: 50px;
     }
 
@@ -193,7 +192,12 @@
 }
 
 .hero_slider_blk h1 {
-    font-size: 32px;
+    font-size: 28px;
+    max-width: 300px;
+}
+
+.hero_slider_blk p {
+    max-width: 300px;
 }
 
 .feature_blk {text-align: center;margin: 30px auto;}
